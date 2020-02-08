@@ -1,0 +1,7 @@
+*.telemetry.microsoft.com
+*.events.data.microsoft.com
+# The following may result in Windows displaying not being connected
+# to the internet when there is a internet connection.
+dns.msftncsi.com
+ipv6.msftconnecttest.com
+www.msftconnecttest.com
