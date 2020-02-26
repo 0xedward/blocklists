@@ -1,0 +1,9 @@
+# edge-star-shv-02-lax3.facebook.com
+# edge-star-shv-01-sea1.facebook.com
+# edge-star-shv-02-dfw5.facebook.com
+# edge-star6-shv-01-nrt1.facebook.com
+# edge-star6-shv-02-dfw5.facebook.com
+edge-star-shv-\d{2}-\w{4}.facebook.com
+edge-star6-shv-\d{2}-\w{4}.facebook.com
+
+aintfacebook.com
