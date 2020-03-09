@@ -1,3 +1,4 @@
 *.googleads.g.doubleclick.net
 safebrowsing.googleapis.com
 android-safebrowsing.google.com
+analyticsinsights-pa.googleapis.com
