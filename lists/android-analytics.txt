@@ -1,3 +1,4 @@
 e.crashlytics.com
 app-measurement.com
 analyticsinsights-pa.googleapis.com
+reports.crashlytics.com
